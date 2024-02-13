@@ -1,0 +1,4 @@
+In python you can read from file.
+In python you can organize code in class.
+In python you can import other module and class.
+In python you can use dic, list .
